@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+*.pyc
+ad_monitor.db
+.env
